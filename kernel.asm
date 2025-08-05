@@ -17,4 +17,4 @@ start:
 
 	call k_main
 
-	hlt ; halt the CPU
+	; hlt ; halt the CPU
